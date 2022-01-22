@@ -1,6 +1,8 @@
 # CBIR_J_COMP
  This is done as a part of college project by 19BCE1499,19BCE1668,19BCE1643
  
+ you can check the demo video [here](https://drive.google.com/file/d/13A_yDEP-JFbGk7P93_Mp8QnYzTO4dLrR/view) 
+ 
  ## STEPS TO RUN THE CODE IN LOCAL SYSTEM
  1 First download the repo in local machine
  
